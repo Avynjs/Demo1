@@ -17,3 +17,5 @@ Instructions for contributiing tot he project.
 Change for branch dev
 
 ##This is a test feature
+
+Made fix from dev branch
